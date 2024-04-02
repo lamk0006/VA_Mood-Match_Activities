@@ -1,4 +1,4 @@
-# VA_Mood-Match_Activities
+# VA Mood-Match Activities
 Developed a Virtual Assistant (VA) that can recommend a movie or an activity based on the user’s mood
 
 Wake word detection (“Wake Up”) and signing-off detection (“Turn Off”)
@@ -12,3 +12,5 @@ BERT pre-trained model for detecting yes/no word variations, emotions, sentiment
 Asymmetric semantic search is used to recommend a movie based on the user’s response
 
 VA Geolocation is used along with the Weather API to recommend indoor or outdoor activities
+
+![Virtual Assistant FlowChart](https://github.com/lamk0006/VA_Mood-Match_Activities/assets/48664931/5d7f4892-4002-482b-8f48-e4194e6fec3a)
