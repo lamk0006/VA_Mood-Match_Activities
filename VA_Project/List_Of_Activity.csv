@@ -1,0 +1,64 @@
+Mood,Activities,Indoor/Outdoor,Category
+anger,going for a jog,outdoor,exercise
+anger,punching a pillow,indoor,relax
+anger,taking a kickboxing or martial arts class,indoor,exercise
+anger,listening to uplifting music,indoor,music
+anger,shredding paper or smashing unbreakable objects,indoor,release
+anger,cleaning and organizing living space,indoor,cleaning
+anger,screaming into a pillow,indoor,relax
+anger,playing a musical instrument,indoor,music
+anger,hiking in nature,outdoor,nature
+anger,painting or drawing,indoor,art
+anger,hiking in a nearby forest or nature trail,outdoor,nature
+anger,playing a game of basketball at a local court,outdoor,sports
+anger,practicing outdoor yoga in a peaceful setting,outdoor,exercise
+anger,participating in a local protest or activism event,outdoor,activism
+anger,joining a local sports team for a game,outdoor,sports
+anger,participating in a kickboxing or boxing session,outdoor,exercise
+anger,engaging in a high-intensity outdoor workout,outdoor,exercise
+fear,deep breathing exercises,indoor,breathing
+fear,talking to a friend or family member,indoor,social
+fear,watching funny animal videos,indoor,video
+fear,cuddling with a pet,indoor,pet
+fear,listening to calming sounds,indoor,music
+fear,going for a leisurely walk,outdoor,walk
+fear,attending a self-defense class,indoor,exercise
+fear,participating in a guided meditation session,indoor,meditation
+fear,playing with a stress ball,indoor,relax
+fear,watching the sunrise,outdoor,nature
+fear,visiting an adventure park or amusement park,outdoor,adventure
+fear,going for a bike ride in a scenic area,outdoor,cycling
+fear,trying an outdoor ropes course or zip-lining,outdoor,adventure
+fear,going for a nature walk with a trusted companion,outdoor,nature
+fear,taking a scenic drive through the countryside,outdoor,driving
+fear,trying outdoor rock climbing or bouldering,outdoor,climbing
+fear,going for a thrilling ride at a local theme park,outdoor,adventure
+joy,cooking a meal with family/friends,indoor,cooking
+joy,playing with a pet,indoor,pet
+joy,dancing around the house,indoor,dance
+joy,gardening and planting flowers,outdoor,gardening
+joy,baking cookies or cakes,indoor,cooking
+joy,making homemade ice cream,indoor,cooking
+joy,having a picnic in the park,outdoor,picnic
+joy,listening to favorite songs,indoor,music
+joy,watching a comedy show,indoor,entertainment
+joy,having a beach day with friends,outdoor,beach
+joy,having a picnic in a picturesque countryside,outdoor,picnic
+joy,organizing a outdoor barbecue with family and friends,outdoor,bbq
+joy,going for a swim in a natural lake or river,outdoor,swimming
+joy,having a bonfire and roasting marshmallows,outdoor,bonfire
+joy,going for a hike to a scenic waterfall,outdoor,nature
+joy,visiting a local farmer's market,outdoor,market
+sadness,listening to uplifting music,indoor,music
+sadness,going for a walk in a quiet park or nature reserve,outdoor,nature
+sadness,taking a warm bath with candles,indoor,bath
+sadness,drawing or painting,indoor,art
+sadness,going for a scenic drive,outdoor,driving
+sadness,volunteering at a local charity,outdoor,volunteer
+sadness,taking a leisurely stroll along the riverbank,outdoor,nature
+sadness,visiting a botanical garden,outdoor,nature
+sadness,taking a hike to watch the sunset from a hilltop,outdoor,nature
+sadness,attending an outdoor concert or live music event,outdoor,music
+sadness,going for a long solitary walk on a beach,outdoor,beach
+sadness,flying a kite in an open field,outdoor,fun
+sadness,going for a peaceful kayak or canoe ride,outdoor,boating
