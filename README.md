@@ -13,4 +13,4 @@
 
 * VA Geolocation is used along with the Weather API to recommend indoor or outdoor activities
 
-![Virtual Assistant FlowChart](https://github.com/lamk0006/VA_Mood-Match_Activities/assets/48664931/9a480f95-c849-481b-899d-ac8d6ed8d774)
+![Virtual Assistant FlowChart](https://github.com/lamk0006/VA_Mood-Match_Activities/assets/48664931/ca0d0c67-3dda-450d-805f-5387fb8e93db)
