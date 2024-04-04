@@ -1,7 +1,7 @@
 # A Virtual Assistant for Mood-Match Activities
 * Developed a Virtual Assistant (VA) that can recommend a movie or an activity based on the user’s mood
 
-* Wake word detection (“Wake Up”) and signing-off (“Turn Off”)
+* Wake word (“Wake Up”) and signing-off (“Turn Off”)
 
 * Users' movie preferences for different moods can be stored by the VA.
 
